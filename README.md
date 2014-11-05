@@ -6,4 +6,4 @@ It is a derivative of MSCP, but rewritten for beginners trying to learn chess pr
 
 Engine.c has some very bad evaluation function as of now, but will be updating it soon.
 
-Engine_2.c is very much better than Engine.c  
+Engine_2.c is much better play than Engine.c
